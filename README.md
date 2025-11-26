@@ -67,14 +67,3 @@ Este projeto utiliza uma arquitetura de API desacoplada:
     * **Resposta (Sucesso):** `{ "message": "Voto para Python registrado com sucesso!" }`
 
     * **Resposta (Erro):** `{ "message": "Opção de voto não encontrada." }`
-
- 
-
-## 📦 Como Executar o Projeto
-
- 
-
-### Pré-requisitos
-
-* Node.js instalado
-* Um servidor MySQL rodando
